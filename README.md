@@ -7,3 +7,5 @@ Some description2
 1. Open index.html in your browser.
 
 feature test
+
+vscode test
